@@ -2,23 +2,21 @@
 
 A premium, minimalist landing page for **Form & Flow** fitness and wellness studio. Built with a sophisticated cream-and-sage color palette, custom dynamic scrollbar styling, responsive layout, and smooth animations using Motion.
 
----
 
-## Preview Screenshots
+## Screenshots
 
-### 1. Hero Section
 ![Hero Section](./screenshots/1-hero.jpg)
 
-### 2. Philosophy Section
+
 ![Philosophy](./screenshots/2-philosophy.png)
 
-### 3. Method Section
+
 ![Method](./screenshots/3-method.png)
 
-### 4. Memberships Section
+
 ![Memberships](./screenshots/4-memberships.png)
 
-### 5. Location & Contact Section
+
 ![Location & Contact](./screenshots/5-contact.png)
 
 ---
@@ -50,7 +48,7 @@ A premium, minimalist landing page for **Form & Flow** fitness and wellness stud
    npm run build
    ```
 
----
+
 
 ## Technology Stack
 
