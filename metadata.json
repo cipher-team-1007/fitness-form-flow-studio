@@ -1,0 +1,6 @@
+{
+  "name": "Form & Flow Studio",
+  "description": "A premium boutique fitness studio website offering Pilates, strength, and recovery sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
