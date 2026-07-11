@@ -2,6 +2,7 @@
 
 A premium, minimalist landing page for **Form & Flow** fitness and wellness studio. Built with a sophisticated cream-and-sage color palette, custom dynamic scrollbar styling, responsive layout, and smooth animations using Motion.
 
+Demo : https://fitness-form-flow-studio.vercel.app
 
 ## Screenshots
 
